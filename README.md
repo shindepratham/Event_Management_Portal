@@ -1,0 +1,2 @@
+# Event_Management_Portal
+An Event organizing application for college level purpose. There are two modules, organizer, which will organize the event and add all the details related to the event and other module is participant in this module all the events names will we listed and student can select interested event and pay for the event if fees is applicable. After applying, applied participants list will be shown on the partcipant dashboard. 
